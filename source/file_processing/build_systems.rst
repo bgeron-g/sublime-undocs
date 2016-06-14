@@ -78,7 +78,7 @@ Where to Store Build Systems
 Build systems must be located somewhere
 under the :file:`{Packages}` folder
 (e.g. :file:`{Packages}/User`).
-Many packages include their own build systems.
+Many packages include their own build systems. You can also have :ref:`project-specific build systems <fm-projects>`.
 
 
 Running Build Systems
